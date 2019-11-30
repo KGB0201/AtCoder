@@ -1,5 +1,27 @@
 {
   "files.associations": {
-    "ABC007.C": "cpp"
+    "ABC007.C": "cpp",
+    "ABC008.C": "cpp",
+    "ABC009.C": "cpp",
+    "ABC010.C": "cpp",
+    "ABC011.C": "cpp",
+    "ABC012.C": "cpp",
+    "ABC013.C": "cpp",
+    "ABC014.C": "cpp",
+    "ABC015.C": "cpp",
+    "ABC016.C": "cpp",
+    "ABC017.C": "cpp",
+    "ABC018.C": "cpp",
+    "ABC019.C": "cpp",
+    "ABC076.C": "cpp",
+    "ABC085.C": "cpp",
+    "ABC084.C": "cpp",
+    "ABC086.C": "cpp",
+    "ABC088.C": "cpp",
+    "ABC133.C": "cpp",
+    "ABC134.C": "cpp",
+    "ABC135.C": "cpp",
+    "ABC136.C": "cpp",
+    "-----.C": "cpp"
   }
 }
